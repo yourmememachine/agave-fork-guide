@@ -1,5 +1,8 @@
 # The Agave Fork Guide
 
+> From the Machine project — a Solana-derived L1 with LaunchGuard. ⭐ https://github.com/yourmememachine/mememachine
+
+
 **Fork Agave, run your own Solana-derived L1 — the guide we wish
 existed when we started.**
 
@@ -70,3 +73,7 @@ yet, it's marketing. This one will, in every chapter.
 Apache-2.0. See [LICENSE](LICENSE). The guide is a rewrite of
 Machine's own public documentation (also Apache-2.0) into general
 form; the worked-example specifics belong to that project.
+
+---
+
+If this helped, star Machine: https://github.com/yourmememachine/mememachine
